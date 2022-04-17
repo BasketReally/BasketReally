@@ -4,9 +4,10 @@
 <a href="https://www.youtube.com/channel/UC2tdu_Fu8cv_ml3vu1yzglQ"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/youtubelogo.png" width="40" height="40" alt="github badge"></a>
 <a href="https://vk.com/basketr"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/vk.png" width="40" height="40" alt="github badge"></a>
 
+
   
-![header](https://github.com/BasketReally/BasketReally/blob/main/data/welcomeheader.gif)
-![header](https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg)
+<div style="padding-bottom:3000px;"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/welcomeheader.gif"/></div>
+<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg"/></p>
 
 <h2>Languages</h2>
 
