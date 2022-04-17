@@ -4,7 +4,7 @@
 <a href="https://github.com/BasketReally"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github.png" width="40" alt="github badge"></a>
   
 
-![header](https://github.com/BasketReally/BasketReally/blob/main/data/welcome.gif)
+![header](https://github.com/BasketReally/BasketReally/blob/main/data/welcomeheader.gif)
 
 ![header](https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg)
 
