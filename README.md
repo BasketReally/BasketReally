@@ -10,10 +10,8 @@
   
   
   
-
-<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/welcomeheader.gif"/></p>
-
-<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg/></p>
+![header](https://github.com/BasketReally/BasketReally/blob/main/data/welcomeheader.gif)
+![header](https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg)
 
 <h2>Languages</h2>
 
