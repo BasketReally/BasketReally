@@ -1,7 +1,8 @@
 <p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/me.jpeg" width="100"/></p>
 <p align="center">
 <a href="https://github.com/BasketReally"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github.png" width="40" alt="github badge"></a>
-
+<a href="https://github.com/BasketReally"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github.png" width="40" alt="github badge"></a>
+  
 
 ![header](https://github.com/BasketReally/BasketReally/blob/main/data/welcome.gif)
 
