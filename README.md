@@ -1,12 +1,12 @@
-<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/basketlogo.jpg" width="200"/></p>
+<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/basket.jpg" width="200"/></p>
 <p align="center">
 <a href="https://github.com/BasketReally"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github.png" width="40" alt="github badge"></a>
 <a href="https://www.youtube.com/channel/UC2tdu_Fu8cv_ml3vu1yzglQ"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/youtubelogo.png" width="40" height="40" alt="github badge"></a>
 <a href="https://vk.com/basketr"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/vk.png" width="40" height="40" alt="github badge"></a>
 
   
-![header](https://github.com/BasketReally/BasketReally/blob/main/data/welcomeheader.gif)<br>
-![header](https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg)<br>
+![header](https://github.com/BasketReally/BasketReally/blob/main/data/welcomeheader.gif)
+![header](https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg)
 
 <h2>Languages</h2>
 
