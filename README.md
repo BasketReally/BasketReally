@@ -1,12 +1,19 @@
-<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/me.jpeg" width="100"/></p>
+<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/basket.jpeg" width="100"/></p>
+<p align="center">Basket#6899</p>
 <p align="center">
 <a href="https://github.com/BasketReally"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github.png" width="40" alt="github badge"></a>
-<a href="https://github.com/BasketReally"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github.png" width="40" alt="github badge"></a>
+<a href="https://www.youtube.com/channel/UC2tdu_Fu8cv_ml3vu1yzglQ"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/youtubelogo.png" width="40" height="40" alt="github badge"></a>
+<a href="https://vk.com/basketr"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/vk.png" width="40" height="40" alt="github badge"></a>
+
+  
+  
+  
+  
   
 
-![header](https://github.com/BasketReally/BasketReally/blob/main/data/welcomeheader.gif)
+<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/welcomeheader.gif"/></p>
 
-![header](https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg)
+<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg/></p>
 
 <h2>Languages</h2>
 
