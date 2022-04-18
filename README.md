@@ -1,19 +1,24 @@
-<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/basket.jpg" width="200"/></p>
-<p align="center">
-<a href="https://github.com/BasketReally"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github.png" width="40" alt="github badge"></a>
-<a href="https://www.youtube.com/channel/UC2tdu_Fu8cv_ml3vu1yzglQ"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/youtubelogo.png" width="40" height="40" alt="github badge"></a>
-<a href="https://vk.com/basketr"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/vk.png" width="40" height="40" alt="github badge"></a>
 
+![Welcome](./data/welcomeheader.gif)
+![snake](./data//github-contribution-grid-snake.svg)
 
-  
-<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/welcomeheader.gif"/></p>
-<p align="right"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg"/></p>
 
 # About me
 
-I am a beginner pythonist and I know that my programs are shit but I write in my free time and only for myself. 
+
+[![VK Badge](https://img.shields.io/badge/VK-informational??style=flat-square&logo=vk&logoColor=white&color=090909)](https://vk.com)
+[![Github Badge](https://img.shields.io/badge/GitHub-informational??style=flat-square&logo=github&logoColor=white&color=090909)](https://github.com/BasketReally)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-informational??style=flat-square&logo=youtube&logoColor=white&color=090909)](https://www.youtube.com/channel/UC2tdu_Fu8cv_ml3vu1yzglQ)
+[![Discord](https://img.shields.io/badge/Discord-informational??style=flat-square&logo=discord&logoColor=white&color=090909)](https://discord.gg/sDfeyaJm7d)
+
+
+
+I know that my programs are shit but I write in my free time and only for myself. 
 Most of the repositories are private, but I'm not a level 30 githuber who has been on github for 5 years. 
 I’m generally who I am, but I’ll say that I’m studying to be a designer of rocket launch stages, lmao
+
+![Basket's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasketReally)
+
 
 ## Languages
 
@@ -27,3 +32,4 @@ I’m generally who I am, but I’ll say that I’m studying to be a designer of
 <img src="https://github.com/BasketReally/BasketReally/blob/main/data/html5-original.png" title="html" alt="html" width="40" height="40"/>&nbsp;
 <img src="https://github.com/BasketReally/BasketReally/blob/main/data/mysql-original-wordmark.png" title="mysql" alt="myqsl" width="40" height="40"/>&nbsp;
 <img src="https://github.com/BasketReally/BasketReally/blob/main/data/nodejs-original-wordmark.png" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp;
+
