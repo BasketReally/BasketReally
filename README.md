@@ -9,7 +9,7 @@
 <img src="https://github.com/BasketReally/BasketReally/blob/main/data/welcome.gif"/>
 <p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg"/></p>
 
-
+!
 
 I am a beginner pythonist and I know that my programs are shit but I write in my free time and only for myself. 
 Most of the repositories are private, but I'm not a level 30 githuber who has been on github for 5 years. 
