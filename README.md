@@ -6,8 +6,8 @@
 
 
   
-<img src="https://github.com/BasketReally/BasketReally/blob/main/data/welcome.gif"/>
-<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg"/></p>
+<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/welcome.gif"/></p>
+<p align="right"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg"/></p>
 
 !
 
