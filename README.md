@@ -6,16 +6,16 @@
 
 
   
-<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/welcome.gif"/></p>
+<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/welcomeheader.gif"/></p>
 <p align="right"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/github-contribution-grid-snake.svg"/></p>
 
-!
+# About me
 
 I am a beginner pythonist and I know that my programs are shit but I write in my free time and only for myself. 
 Most of the repositories are private, but I'm not a level 30 githuber who has been on github for 5 years. 
 I’m generally who I am, but I’ll say that I’m studying to be a designer of rocket launch stages, lmao
 
-<h2>Languages</h2>
+## Languages
 
 <img src="https://github.com/BasketReally/BasketReally/blob/main/data/Javac.png" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/BasketReally/BasketReally/blob/main/data/Python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
