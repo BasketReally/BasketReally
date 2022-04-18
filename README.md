@@ -6,11 +6,13 @@
 # About me
 
 
+
 [![VK Badge](https://img.shields.io/badge/VK-informational??style=flat-square&logo=vk&logoColor=white&color=090909)](https://vk.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-informational??style=flat-square&logo=github&logoColor=white&color=090909)](https://github.com/BasketReally)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-informational??style=flat-square&logo=youtube&logoColor=white&color=090909)](https://www.youtube.com/channel/UC2tdu_Fu8cv_ml3vu1yzglQ)
 [![Discord](https://img.shields.io/badge/Discord-informational??style=flat-square&logo=discord&logoColor=white&color=090909)](https://discord.gg/sDfeyaJm7d)
 
+<p align="center"><img src="https://github.com/BasketReally/BasketReally/blob/main/data/basket.jpg" width="150"/></p>
 
 
 I know that my programs are shit but I write in my free time and only for myself. 
