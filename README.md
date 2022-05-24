@@ -17,7 +17,7 @@
 
 I know that my programs are shit but I write in my free time and only for myself. 
 Most of the repositories are private, but I'm not a level 30 githuber who has been on github for 5 years. 
-I’m generally who I am, but I’ll say that I’m studying to be a designer of rocket launch stages, lmao
+
 
 ![Basket's GitHub stats](https://github-readme-stats.vercel.app/api?username=BasketReally)
 
