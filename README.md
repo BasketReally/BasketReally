@@ -1,4 +1,4 @@
-## <img src="https://github.com/ProgramFreakHD/ProgramFreakHD/blob/main/Pictures/cat.gif" width="30">  I love Know#4463
+## <img src="https://github.com/ProgramFreakHD/ProgramFreakHD/blob/main/Pictures/cat.gif" width="30">
 
 pablo
 
